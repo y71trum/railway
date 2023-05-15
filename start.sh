@@ -1,6 +1,6 @@
 #!/bin/sh
 
-UUID=5aaed9b7-7fe3-47c3-bb52-db59859ce198
+UUID=a32e49b8-e4a1-411d-9c0b-3d269e044f38
 WebPage=https://bing.com
 CaddyConfig=https://raw.githubusercontent.com/bsefwe/Rail/main/etc/Caddyfile
 XRayConfig=https://raw.githubusercontent.com/bsefwe/Rail/main/etc/xray.json
